@@ -6,7 +6,7 @@
 
 #### 1. สร้าง repository ขึ้นมาใน account ตนเอง 
 
-#### 2. ให้ fork repo มาจาก https://github.com/Computer-Lab-1/github-demo มาไว้ใน account ของตนเอง
+#### 2. ให้ fork repo มาจาก [https://github.com/Computer-Lab-1/github-demo](https://github.com/Computer-Lab-I-2567/github-demo) มาไว้ใน account ของตนเอง
 
 
 #### 3. Clone จาก remote (origin) บน github.com มายัง local repository
